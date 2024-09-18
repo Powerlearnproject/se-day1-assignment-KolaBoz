@@ -12,6 +12,14 @@ Identify and describe at least three key milestones in the evolution of software
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+1. Planning
+2. Requirements Gathering
+3. Design
+4. Implementation (Coding)
+5. Testing
+6. Deployment
+7. Maintenance
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
