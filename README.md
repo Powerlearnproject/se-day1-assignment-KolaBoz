@@ -20,6 +20,54 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Deployment
 7. Maintenance
 
+1. Planning Phase
+
+- Define project scope, goals, and deliverables
+- Identify stakeholders, resources, and timelines
+- Determine feasibility and risk assessment
+- Create project plan, schedule, and budget
+
+2. Requirements Gathering Phase
+
+- Collect and document user requirements
+- Conduct stakeholder interviews, surveys, and workshops
+- Define functional and non-functional requirements
+- Create User Requirement Specification (URS) document
+
+3. Design Phase
+
+- Develop software architecture and design
+- Create system models, prototypes, and diagrams
+- Define user interface (UI) and user experience (UX)
+- Produce Design Document Specification (DDS)
+
+4. Implementation (Coding) Phase
+
+- Write and review source code
+- Conduct unit testing and integration testing
+- Implement design and requirements
+- Produce executable software
+
+5. Testing Phase
+
+- Conduct various types of testing (unit, integration, system, acceptance)
+- Identify and report defects
+- Perform test-driven development (TDD)
+- Ensure quality and reliability
+
+6. Deployment Phase
+
+- Plan and execute deployment strategy
+- Install software in production environment
+- Configure and integrate with existing systems
+- Monitor and support initial usage
+
+7. Maintenance Phase
+
+- Address defects and issues
+- Implement changes and updates
+- Refactor and optimize code
+- Ensure ongoing support and maintenance
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
